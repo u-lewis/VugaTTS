@@ -1,0 +1,80 @@
+data/processed/wavs_22050/TTS 20_221.wav|kugira ngo ikipe itsinde ikenera kwinjiza ibitego mu rindi zamu no kurinda izamu ryayo kandi ibyo ntabyo twakoze
+data/processed/wavs_22050/TTS 20_222.wav|kugira ngo wishyure amazi ukoresheje telephone uca mu nzira zikurikira
+data/processed/wavs_22050/TTS 20_223.wav|kugirango inyandiko igire akamaro tugomba kuyisoma yose
+data/processed/wavs_22050/TTS 20_224.wav|kugirango babone igiciro giciriritse ndetse banabone n'umurongo wayo k'uburyo bwisumbuyeho
+data/processed/wavs_22050/TTS 20_225.wav|kuki ibuka itavugira ababo bagaraguzwa agati mu buroko
+data/processed/wavs_22050/TTS 20_226.wav|kuki buri mpunzi itigiwe idosiye yayo nk'uko amategeko agenga ubuhunzi abiteganya
+data/processed/wavs_22050/TTS 20_227.wav|kuki hari abatekereza ko badashobora kuba inshuti z'imana nkuko bibiliya ibivuga
+data/processed/wavs_22050/TTS 20_228.wav|kuko sawuli yibwiraga ati yoye kuzangwaho ahubwo azagwe ku bafilisitiya
+data/processed/wavs_22050/TTS 20_229.wav|kuko atakwihanganira guharabikwa gutyo cyane ko ahamya ko yanahimbiwe inyandiko zashyizwe hanze ngo arimo asaba njuga urukundo
+data/processed/wavs_22050/TTS 20_230.wav|kuko muvuga y'uko umuntu wese ari mwiza imbere y'uwiteka
+data/processed/wavs_22050/TTS 20_231.wav|kuko nzi ko utwo tuntu duto duto tuzatuma imbaraga ze ziyongera kandi uzabona
+data/processed/wavs_22050/TTS 20_232.wav|kuko umugabo wanjye atari umuhamya wa yehova iby'umwuka mu muryango biramugora
+data/processed/wavs_22050/TTS 20_233.wav|kumenya impamvu wifuza kubana n'uwo mukundana ni intambwe ya mbere ikuganisha mu cyerekezo nyacyo
+data/processed/wavs_22050/TTS 20_234.wav|kumenya jenoside icyo aricyo bikwiye kudufasha kwumva ububi bwayo tutayivanze n'ibindi
+data/processed/wavs_22050/TTS 20_235.wav|kumenya ubuhanga bw'inganzo za kera nta cyo byishe ndetse ninabyiza
+data/processed/wavs_22050/TTS 20_236.wav|kumugeraho ntibyari byoroshye ariko byose biterwa n'ubushake iyo ushaka urashobora
+data/processed/wavs_22050/TTS 20_237.wav|kumwenyura ni nko guhindura isura no kuzamura umwuka ako kanya
+data/processed/wavs_22050/TTS 20_238.wav|kundwa doriyane yageze mu budage ahura na bamwe mu bayobozi bo mu nzego zitandukanye barimo n'ab'uruganda rwa sebamedi
+data/processed/wavs_22050/TTS 20_239.wav|kundwa doriyane yavukiye mu murenge wa rwezamenyo mu mujyi wa kigali
+data/processed/wavs_22050/TTS 20_240.wav|kungurana ibitekerezo kuri murandasi bikorwa kuwa mbere nyuma ya saa sita inshuro ebyiri mu kwezi
+data/processed/wavs_22050/TTS 20_242.wav|kureba niba ari kazima ubireba ukanda agashashi karimo ukumva niba karimo umwuka ukarinda kwangirika
+data/processed/wavs_22050/TTS 20_243.wav|kureka itabi si ikintu cyoroshye ku isi ndabizi kuko nabigerageje inshuro ibihumbi
+data/processed/wavs_22050/TTS 20_244.wav|kuri mukangemanyi hiyongeraho icyaha cyo kubiba amacakubiri muri rubanda
+data/processed/wavs_22050/TTS 20_245.wav|kuri haruna uyu wari umukino abakinnyi b'amavubi basabwa kwiyizera no gushyira hamwe
+data/processed/wavs_22050/TTS 20_246.wav|kuri benshi kwiyuhagira bikorwa ku mpamvu z'isuku gusa ndetse ingaruka zabaho igihe bidakozwe ntawe uzitindaho
+data/processed/wavs_22050/TTS 20_247.wav|kuri gahunda y'umukandida mpayimana byari biteganyijwe ko saa mbili za mugitongo yiyamamariza mu murenge wa ntongwe
+data/processed/wavs_22050/TTS 20_248.wav|kuri ibyo ngo hiyongeraho abahabwa ibikoresho bakabyica kandi byari bikiri mu gihe byateganyirijwe kumara
+data/processed/wavs_22050/TTS 20_249.wav|kuri iki kibuga ntawuzajya yicwa n'icyaka kuko hari akabari kujuje ibisabwa
+data/processed/wavs_22050/TTS 20_250.wav|kuri iyi foto yanditseho amagambo agira ati iyi ni ifoto nifotoje ntwite kandi mwavuze ko nta mwana wari uri mu nda yanjye
+data/processed/wavs_22050/TTS 20_251.wav|kuri iyi nshuro ariko ngo aboga ku giti cyabo ntibemerewe guhatana
+data/processed/wavs_22050/TTS 20_252.wav|kuri iyi nshuro twashatse abakobwa bafite ubushake bwo kwiga bazahabwa ubumenyi buhagije
+data/processed/wavs_22050/TTS 20_253.wav|kuri iyo ngingo ninginze umwami inshuro eshatu nsaba ko rimvamo arabyanga
+data/processed/wavs_22050/TTS 20_254.wav|kuri izi ndwara zitandura nta wundi muti kandi n'ubwo bawuguha ntacyo wakumarira udakora siporo
+data/processed/wavs_22050/TTS 20_255.wav|kuri izi servisi hiyongeraho gufatira amashusho abahanzi amakorali gukora filime n'ibindi
+data/processed/wavs_22050/TTS 20_256.wav|kuri mbuga ze usangaho amafoto atandukanye arimo akora imyitozo ngororamubiri
+data/processed/wavs_22050/TTS 20_257.wav|kuri ubu zahinduye imirishyo kuburyo iri tsinda ritazongera kugira uwo riha amabwiriza runaka mu matora
+data/processed/wavs_22050/TTS 20_258.wav|kuri uwo munsi ni ko yehova nyir'ingabo avuga ati nzavuna umugogo wo ku ijosi ryabo
+data/processed/wavs_22050/TTS 20_259.wav|kuri uyu mukino twafashe gahunda yo guha amahirwe abandi bakinnyi batari bakinnye mu mukino wa mbere
+data/processed/wavs_22050/TTS 20_260.wav|kuri uyu wa gatandatu midimari yagiye gutabara abaturage bagizweho ingaruka n'iyo mvura
+data/processed/wavs_22050/TTS 20_261.wav|kuri uyu wa gatatu nibwo nyakwigendera alberi yasezeweho mu cyubahiro mu mujyi wa daresalamu
+data/processed/wavs_22050/TTS 20_262.wav|kuri uyu wa kabiri muri uwo mukino hahuye ikipe ya mukura n'iya bugesera
+data/processed/wavs_22050/TTS 20_263.wav|kuri uyu wa gatanu yasanze umujyi wa sani diyego wakoraniyemo ibihumbi by'abamurwanya
+data/processed/wavs_22050/TTS 20_264.wav|kuri uyu wa kabiri perezida kagame arasoza uruzinduko rw'iminsi ibiri arimo agirira muri mozambike
+data/processed/wavs_22050/TTS 20_265.wav|kuri uyu wa kabiri ni bwo deluna yemejwe nk'umwere n'ubwo yamaze gukatirwa urwo gupfa akananyongwa
+data/processed/wavs_22050/TTS 20_266.wav|kuri uyu wa mbere ni bwo yatangaje ubwegure bwe
+data/processed/wavs_22050/TTS 20_267.wav|kuri we abantu bagize icyo bigezaho baba baraciye mu nzira ikomeye
+data/processed/wavs_22050/TTS 20_268.wav|kuri we urukiko rwamurenganura kuko nta kimenyetso na kimwe kimuhama babe n'inyandikomvugo bavuga ko yakoreshejwe
+data/processed/wavs_22050/TTS 20_269.wav|kuri wowe icy'ingenzi si imirimbo ahubwo ni ikintu gikoranywe ubushishozi kandi cyizewe
+data/processed/wavs_22050/TTS 20_270.wav|kurikirana iki kiganiro tugufashe gukomeza kwita ku buzima bw'imyororokere tukugira inama
+data/processed/wavs_22050/TTS 20_271.wav|kurinda impyiko kwangirika ni no kurinda umubiri kwangirika muri rusange
+data/processed/wavs_22050/TTS 20_272.wav|kurwanya inzara bijyana no kwihaza mu biribwa na byo bigaterwa n'uko hakoreshejwe imbuto nziza
+data/processed/wavs_22050/TTS 20_273.wav|kurya pome nabyo bitanga impumuro nziza kuko zibamo akantu gakora nk'umuti w'amenyo
+data/processed/wavs_22050/TTS 20_274.wav|kuryamana muhuje igitsina cyangwa gushakana birabujijwe muri zimbabwe kandi ababikora ntibarebwa neza
+data/processed/wavs_22050/TTS 20_275.wav|kutagira impapuro zigaragaza abo leta ibereyemo imyenda ni ikibazo gikomeye
+data/processed/wavs_22050/TTS 20_276.wav|kuva anita yasama inda yerekanaga ubudasiba ko afite amashyushyu yo kubona umwana yiteguraga kwibaruka
+data/processed/wavs_22050/TTS 20_277.wav|kuva abakinnyi bakina hanze bageze mu mwiherero nta mikino ya gicuti bakinye
+data/processed/wavs_22050/TTS 20_278.wav|kuva akiri muto yagaragazaga ko ari umwana uzi ubwenge
+data/processed/wavs_22050/TTS 20_279.wav|kuva icyo gihe umunyarwanda yavukiraga agakurira akazanapfira muri tutsi twa na hutu
+data/processed/wavs_22050/TTS 20_280.wav|kuva icyo gihe avuga ko yahise atangira guhashya iterabwoba ariko ishyaka rye rishinjwa ibyo bikorwa by'iterabwoba
+data/processed/wavs_22050/TTS 20_281.wav|kuva icyo gihe nize ndi umuhanga kandi mfite umuhate kuko numvaga ngomba kubaho nk'umuntu wasigaye wenyine
+data/processed/wavs_22050/TTS 20_282.wav|kuva icyo gihe yatangiye kuregwa ibyaha byo kwica abigaragambyaga bahuriraga kuri urwo rubuga
+data/processed/wavs_22050/TTS 20_283.wav|kuva icyo kigo gitangijwe icyo gihembo gitsindiwe inshuro eshanu gusa
+data/processed/wavs_22050/TTS 20_284.wav|kuva igihe cya adamu na eva ikiremwamuntu cyaciriweho iteka nk'ikidafite umurengezi
+data/processed/wavs_22050/TTS 20_285.wav|kuva kera mu muryango wanjye bakundaga umuziki na data yacurangaga inanga bityo nanjye nkura mbikunda
+data/processed/wavs_22050/TTS 20_286.wav|kuva ku izina rya mbere ukagera ku rigezweho magingo aya urugendo rwabaye rurerure
+data/processed/wavs_22050/TTS 20_287.wav|kuva ku munsi wa mbere ubwitabire ni gutya bwari bumeze
+data/processed/wavs_22050/TTS 20_288.wav|kuva mu bucuti busanzwe ujya mu rukundo bishobora kuba byiza cyangwa bibi
+data/processed/wavs_22050/TTS 20_289.wav|kuva mu cyiciro cya mbere ku isonga biraha amahirwe kiyovu siporo yo kukigumamo
+data/processed/wavs_22050/TTS 20_290.wav|kuva mu mpera z'icyumweru gishize mukandoli usanzwe uba i burayi yaje i kigali gusura murego
+data/processed/wavs_22050/TTS 20_291.wav|kuva nava mu ikipe ya misirimpora nifuza ko naba ari jyewe uba umukinnyi wayo mwiza mu mateka
+data/processed/wavs_22050/TTS 20_292.wav|kuva yajya ku butegetsi yakuye ku rutonde abakozi bagenerwaga umushahara batabaho
+data/processed/wavs_22050/TTS 20_293.wav|kuwa gatanu w'iki cyumweru leta yatangaje ko itazemerera abanyagatolika kwigaragambya
+data/processed/wavs_22050/TTS 20_294.wav|kuwa kabiri twavuganye na kazungu atubwira mu magambo make ko ibivugwa ari byo ariko ko tuza kuvugana ku buryo burambuye
+data/processed/wavs_22050/TTS 20_295.wav|kuwa kane abakozi bakora akazi k'ubuyede bari batonze umurongo bavuga ko baje guhembwa
+data/processed/wavs_22050/TTS 20_296.wav|kuzana iterabwoba ntacyo bihindura wa mugabo we kandi nuba unyomoza ujye utanga ibimenyetso
+data/processed/wavs_22050/TTS 20_297.wav|kwakirwa neza ni ikintu cy'ingenzi ku muntu ugiye gukora ubukwe
+data/processed/wavs_22050/TTS 20_298.wav|kwambutsa abatutsi ku mupaka bajya i goma byateraga akaga
+data/processed/wavs_22050/TTS 20_299.wav|kwica abana ni ko gutsemba kuko n'uwari mu nda yahawe ubwoko maze aricwa
+data/processed/wavs_22050/TTS 20_300.wav|kwigaragambya ntibivuze buri gihe kugira icyo wamagana n'ubwo akenshi ariko biba bimeze
+data/processed/wavs_22050/TTS 20_301.wav|kwigisha ururimi kavukire biba bigamije gukangurira abanyeshuri ubugeni n'ubuvanganzo igihe cyose biga imyandiko
