@@ -1,0 +1,7 @@
+coqui-tts>=0.24.0
+torch>=2.1.0
+torchaudio>=2.1.0
+soundfile
+librosa
+numpy
+tensorboard
