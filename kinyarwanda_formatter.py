@@ -48,6 +48,7 @@ def kinyarwanda_formatter(root_path: str, meta_file: str, **kwargs) -> List[Dict
 
             audio_file, text = parts
             text = text.strip()
+            audio_file = os.path.abspath(audio_file)  # newer coqui-tts needs it under root_path
 
             if not os.path.isfile(audio_file):
                 print(f"[kinyarwanda_formatter] Missing audio file at line {line_num}: {audio_file}")
